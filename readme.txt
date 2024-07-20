@@ -1,0 +1,1 @@
+Welcome to the Composer & OOP Study repository! This project is designed to help you learn and practice Composer and Object-Oriented Programming (OOP) concepts in PHP. It includes examples, exercises, and demonstrations of using Composer for dependency management and implementing OOP principles.
